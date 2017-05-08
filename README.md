@@ -1,2 +1,2 @@
 # SQL
-SQL statements
+A collection of SQL statements
